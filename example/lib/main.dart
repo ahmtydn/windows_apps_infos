@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:flutter/services.dart';
-import 'package:windows_apps_infos/windows_device_apps.dart';
+import 'package:windows_apps_infos/windows_apps_infos.dart';
+
+
 
 
 void main() {

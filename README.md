@@ -17,13 +17,13 @@ This package provides functionality specifically for working with Windows device
 To use this package, add it to your dependencies in your ` pubspec.yaml` file:
 ```
 dependencies:
-  windows_device_apps: ^0.0.1
+  windows_apps_infos: ^0.0.2
 ```
 
 Then import it in your Dart code:
 
 ```
-import 'package:windows_device_apps/windows_device_apps.dart';
+import 'package:windows_apps_infos/windows_apps_infos.dart';
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ for (AppInfo info in appList) {
 
 ## Additional information
 
-For more information, refer to the documentation in the ` windows_device_apps.dart` file. Contributions, bug reports, and feature requests are welcome on the [GitHub repository](https://github.com/ahmtydn/windows_apps_info).
+For more information, refer to the documentation in the ` windows_apps_infos.dart` file. Contributions, bug reports, and feature requests are welcome on the [GitHub repository](https://github.com/ahmtydn/windows_apps_info).
 
 # Contact
 

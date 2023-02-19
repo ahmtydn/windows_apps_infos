@@ -1,8 +1,8 @@
-name: windows_device_apps
+name: windows_apps_infos
 description: Package that allows you to get information of Installed applications in Windows
-version: 0.0.1
+version: 0.0.2
 homepage: https://ahmetaydin.dev/
-repository: https://github.com/ahmtydn/windows_apps_info
+repository: https://github.com/ahmtydn/windows_apps_infos
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
