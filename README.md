@@ -66,3 +66,6 @@ For more information, refer to the documentation in the ` windows_apps_infos.dar
 
 You can reach me at [Ahmet Aydın](https://ahmetaydin.dev/).
 
+![Views](https://komarev.com/ghpvc/?username=ahmtydn&label=Views)
+
+
