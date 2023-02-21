@@ -1,4 +1,5 @@
-## Windows Apps Info
+## Windows Apps Info 
+![Views](https://komarev.com/ghpvc/?username=ahmtydn&label=Views)
 
 This package provides a Flutter library for working with Windows device apps. It includes functionality for retrieving information about installed apps, as well as specific information about individual apps.
 
@@ -66,6 +67,6 @@ For more information, refer to the documentation in the ` windows_apps_infos.dar
 
 You can reach me at [Ahmet Aydın](https://ahmetaydin.dev/).
 
-![Views](https://komarev.com/ghpvc/?username=ahmtydn&label=Views)
+
 
 
